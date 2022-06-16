@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "A backend api to register and edit students",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js"
     },
-    "type": "module",
+   
   "author": "Fatimzahra",
   "license": "ISC",
   "dependencies": {
