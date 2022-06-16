@@ -6,7 +6,7 @@ import dotenv from 'dotenv'
 
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+//const PORT = process.env.PORT || 3000;
 
 dotenv.config()
 const uri = "mongodb+srv://fatimzahra:anahna1993@cluster0.etmbixq.mongodb.net/?retryWrites=true&w=majority";

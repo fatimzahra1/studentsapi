@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon ./index.js --exec babel-node -e js",
-    "test": "node ./index.js"
+    "start": "node index.js"
   },
   "author": "Fatimzahra",
   "license": "ISC",
