@@ -23,6 +23,6 @@ app.get('/', (req, res) =>
 
 routes(app);
 
-app.listen(PORT, () =>
-{console.log(`Your server is running on port ${PORT}`)
-})
+// app.listen(PORT, () =>
+// {console.log(`Your server is running on port ${PORT}`)
+// })
