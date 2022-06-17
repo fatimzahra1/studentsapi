@@ -18,7 +18,7 @@ mongoose.connect(uri, {
 app.use(express.json());
 
 app.get('/', (req, res) =>
-  res.send(`Node and express server running on port ${PORT}`)
+  res.send(`Node and express server running `)
 )
 
 routes(app);
