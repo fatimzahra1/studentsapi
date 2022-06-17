@@ -9,7 +9,7 @@
   "type": "module",
   "scripts": {
     
-    "start": "serve -s build"
+    "start": "node index.js"
     
   },
   "author": "Fatimzahra",
