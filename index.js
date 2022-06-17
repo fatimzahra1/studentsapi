@@ -24,5 +24,5 @@ app.get('/', (req, res) =>
 routes(app);
 
 app.listen(process.env.PORT || 5000, () =>
-{console.log(`Your server is running on port ${PORT}`)
+{console.log(`Your server is running on port `)
  })
