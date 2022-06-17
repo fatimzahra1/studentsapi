@@ -1,6 +1,9 @@
 {
   "name": "studentback",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.13.1"
+  },
   "description": "A backend api to register and edit students",
   "main": "index.js",
   "type": "module",
