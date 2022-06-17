@@ -2,15 +2,13 @@
   "name": "studentback",
   "version": "1.0.0",
   "engines": {
-    "node": "16.13.1"
+    "node": "14.1"
   },
   "description": "A backend api to register and edit students",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    
     "start": "node index.js"
-    
   },
   "author": "Fatimzahra",
   "license": "ISC",
@@ -23,6 +21,8 @@
     "mongoose": "^6.3.8",
     "node": "^17.7.2",
     "nodemon": "^2.0.16",
+    "nvm": "^0.0.4",
+    "sass": "^1.52.3",
     "serve": "^13.0.2"
   },
   "devDependencies": {
